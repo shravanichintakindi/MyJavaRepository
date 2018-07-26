@@ -10,5 +10,7 @@ class HelloWorld
 	{
 
 	System.out.println("welcome to GIT ");
+	HelloWorld obj=new HelloWorld();
+	obj.displayDate();
 	}
 }
