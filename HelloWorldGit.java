@@ -1,11 +1,6 @@
 //hello world program
 class HelloWorld
 {
-
-	void mymethod()
-	{
-	sysout("display today dtae");
-	}
 	public static void main(String args[])
 	{
 
