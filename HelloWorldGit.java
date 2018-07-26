@@ -2,7 +2,7 @@
 class HelloWorld
 {
 
-	void displayDate()
+	static void displayDate()
 	{
 		System.out.println("Display date changes");
 	}
@@ -10,7 +10,7 @@ class HelloWorld
 	{
 
 	System.out.println("welcome to GIT ");
-	HelloWorld obj=new HelloWorld();
-	obj.displayDate();
+	displayDate();
+
 	}
 }
